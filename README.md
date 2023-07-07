@@ -9,8 +9,3 @@ and as part of a team
 - 💞️ I’m looking job so meybe you give me a chance :)
 - 📫 How to reach me https://www.linkedin.com/in/kamil-sorys-856641270
 
-
-
-KamilSOR/KamilSOR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
